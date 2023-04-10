@@ -52,7 +52,16 @@ address CreateNodeOperator(char input);
 double kalkulasi(address P);
 float operasi_trigono(char* tes,float oprtr);
 
+//mahira
+float persen(float bil);
+float faktorial(float bil);
+float asinus(float bil);
+float acosinus(float bil);
+float atangen(float bil);
 
+float mutlak(float bil);
+float arcsin(float bil);
+float squareroot(float x);
 
 #endif
 
